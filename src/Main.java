@@ -7,6 +7,6 @@ public class Main {
         System.out.println(lampu.warnaSekarang());
         lampu.gantiwarna("Merah");
         System.out.println(lampu.warnaSekarang());
-        
+
     }
 }
